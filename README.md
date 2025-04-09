@@ -7,7 +7,7 @@
     <td>
       <img src="https://github.com/anonymousuai2025/belief/blob/main/1-asfe_ecdf_zeta0to6.png" width="400"/>
       <br>
-      <b>Figure 1:</b> ECDF plot of (1 - ASFE) scores across different <br> ζ variants for Resnet50 model on 50 random images <br> of Oxford-IIIT Pets Dataset.
+      <b>Figure 1:</b> ECDF plot of (1 - ASFE) scores across different ζ <br> variants for Resnet50 model on 50 random images <br> of Oxford-IIIT Pets Dataset.
     </td>
     <td>
       <img src="https://github.com/anonymousuai2025/belief/blob/main/arsc_ecdf_zeta0to6.png" width="400"/>
