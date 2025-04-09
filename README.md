@@ -35,7 +35,7 @@
     <td>
       <img src="https://github.com/anonymousuai2025/belief/blob/main/coef_std_BSL_kde.png" width="400"/>
       <br>
-      <b>Figure 5:</b> Density plot of mean of standard deviations for BELIEF, SLICE and LIME Resnet50 model on 50 random images of Oxford-IIIT Pets Dataset.
+      <b>Figure 5:</b> Density plot of mean of standard deviations <br> for BELIEF, SLICE and LIME Resnet50 model on 50 random images of Oxford-IIIT Pets Dataset.
     </td>
   </tr>
 </table>
