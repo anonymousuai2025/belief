@@ -24,12 +24,12 @@
     <td>
       <img src="https://github.com/anonymousuai2025/belief/blob/main/ccm_ecdf_zeta0to6.png" width="400"/>
       <br>
-      <b>Figure 3:</b> ECDF plot of CCM scores across different <br> ζ variants for Resnet50 model on 50 random images <br> of Oxford-IIIT Pets Dataset.
+      <b>Figure 3:</b> ECDF plot of CCM scores across different ζ variants for Resnet50 model on 50 random images of Oxford-IIIT Pets Dataset.
     </td>
     <td>
       <img src="https://github.com/anonymousuai2025/belief/blob/main/mean_fraction_selected_per_zeta.jpeg" width="400"/>
       <br>
-      <b>Figure 4:</b> Bar plot of Average Fraction of selected <br> segments using different ζ variants for Resnet50 model <br> on 50 random images  of Oxford-IIIT Pets Dataset.
+      <b>Figure 4:</b> Bar plot of Average Fraction of selected segments using different ζ variants for Resnet50 model on 50 random images  of Oxford-IIIT Pets Dataset.
     </td>
   </tr>
 </table>
