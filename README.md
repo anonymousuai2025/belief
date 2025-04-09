@@ -23,7 +23,7 @@
       <b>Figure 3:</b> ECDF plot of CCM scores across different ζ variants for Resnet50 model on 50 random images of Oxford-IIIT Pets Dataset.
     </td>
     <td>
-      <img src="https://github.com/anonymousuai2025/belief/blob/main/mean_fraction_selected_per_zeta.jpeg" width="350"/>
+      <img src="https://github.com/anonymousuai2025/belief/blob/main/mean_fraction_selected_per_zeta.jpeg" width="300"/>
       <br>
       <b>Figure 4:</b> Bar plot of Average Fraction of selected segments using different ζ variants for Resnet50 model on 50 random images  of Oxford-IIIT Pets Dataset.
     </td>
