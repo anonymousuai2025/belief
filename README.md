@@ -25,7 +25,7 @@
     <td>
       <img src="https://github.com/anonymousuai2025/belief/blob/main/mean_fraction_selected_per_zeta.jpeg" width="400"/>
       <br>
-      <b>Figure 4:</b> Bar plot of Average Fraction of selected segments using different ζ variants for Resnet50 model on 50 random images  of Oxford-IIIT Pets Dataset.
+      <b>Figure 4:</b> Bar plot of Average (mean) Ratio of selected segments using different ζ variants for Resnet50 model on 50 random images  of Oxford-IIIT Pets Dataset.
     </td>
   </tr>
 </table>
