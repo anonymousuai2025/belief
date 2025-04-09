@@ -1,7 +1,5 @@
 # BELIEF Rebuttal
 
-## ECDF Plots: 1 - ASFE (left) vs ARSC (right)
-
 <table>
   <tr>
     <td>
@@ -16,8 +14,6 @@
     </td>
   </tr>
 </table>
-
-## CCM Scores and Average Fraction of Selected Features 
 
 <table>
   <tr>
