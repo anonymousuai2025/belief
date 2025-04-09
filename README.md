@@ -12,7 +12,7 @@
     <td>
       <img src="https://github.com/anonymousuai2025/belief/blob/main/arsc_ecdf_zeta0to6.png" width="400"/>
       <br>
-      <b>Figure 2:</b> ECDF plot of ARSC scores across different <br> ζ variants for Resnet50 model on 50 random images <br> of Oxford-IIIT Pets Dataset.
+      <b>Figure 2:</b> ECDF plot of ARSC scores across different ζ variants for Resnet50 model on 50 random images of Oxford-IIIT Pets Dataset.
     </td>
   </tr>
 </table>
