@@ -40,4 +40,14 @@
   </tr>
 </table>
 
+### Adversarial Experiments
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/anonymousuai2025/belief/blob/main/ccm_ecdf_adversarial.png" width="400"/>
+      <br>
+      <b>Figure 6:</b> ECDF plot of CCM scores for explanations generated for original and adversarially perturbed images (FGSM, epsilon=0.01) on 20 random images of Oxford-IIIT Pets Dataset for Resnet50 model.
+    </td>
+  </tr>
+</table>
 
