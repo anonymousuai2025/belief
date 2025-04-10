@@ -37,12 +37,6 @@
       <br>
       <b>Figure 5:</b> Density plot of mean of standard deviations <br> for BELIEF, SLICE and LIME Resnet50 model on 50 <br> random images of Oxford-IIIT Pets Dataset.
     </td>
-  </tr>
-</table>
-
-### Adversarial Experiments
-<table>
-  <tr>
     <td>
       <img src="https://github.com/anonymousuai2025/belief/blob/main/ccm_ecdf_adversarial.png" width="400"/>
       <br>
@@ -50,4 +44,3 @@
     </td>
   </tr>
 </table>
-
